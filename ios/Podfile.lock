@@ -1,0 +1,35 @@
+PODS:
+  - BakongKHQR (1.0.0.16)
+  - Flutter (1.0.0)
+  - khqr_sdk (1.0.0):
+    - BakongKHQR (= 1.0.0.16)
+    - Flutter
+  - url_launcher_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - khqr_sdk (from `.symlinks/plugins/khqr_sdk/ios`)
+  - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
+
+SPEC REPOS:
+  "https://sambo:ycfXmxxRbyzEmozY9z6n@gitlab.nbc.gov.kh/khqr/khqr-ios-pod.git":
+    - BakongKHQR
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  khqr_sdk:
+    :path: ".symlinks/plugins/khqr_sdk/ios"
+  url_launcher_ios:
+    :path: ".symlinks/plugins/url_launcher_ios/ios"
+
+SPEC CHECKSUMS:
+  BakongKHQR: e25c01340c6cb0c928a51a3f76398b21fec6cc41
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  khqr_sdk: 19fc2b4fd5d550b3b90dad700f08bb912f766862
+  url_launcher_ios: 694010445543906933d732453a59da0a173ae33d
+
+PODFILE CHECKSUM: 49561c2cae317b53091f98bd054e8d59df21bb36
+
+COCOAPODS: 1.16.2
